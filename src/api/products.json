@@ -1,0 +1,52 @@
+[
+	{
+		"productId": 1,
+		"productName": "Grater",
+		"productCode": "GDN-0011",
+		"releaseDate": "March 19, 2019",
+		"description": "This 7-in-1 box grater from Cuisipro can grate citrus, fine, coarse, ultra-coarse, parmesan, shave, slice and even has a ginger grater.",
+		"price": 38.95,
+		"starRating": 4.6,
+		"imageUrl": "https://www.mealime.com/images/kitchen-essentials/Grater-156x300.9721950.jpg"
+	},
+	{
+		"productId": 2,
+		"productName": "Whisk",
+		"productCode": "GDN-0023",
+		"releaseDate": "March 18, 2019",
+		"description": "This 9-inch whisk from OXO Good Grips fits great in the hand and is perfect for whisking together salad dressings, sauces, eggs, desserts, and much more.",
+		"price": 32.99,
+		"starRating": 4.2,
+		"imageUrl": "https://www.mealime.com/images/kitchen-essentials/Whisk-300x241.5030e5a.jpg"
+	},
+	{
+		"productId": 5,
+		"productName": "Measuring Cups",
+		"productCode": "TBX-0048",
+		"releaseDate": "May 21, 2019",
+		"description": " This stackable set of measuring cups from Kitchenmade has all sorts of smart features that eliminates the small frustrations that measuring cups often bring about.",
+		"price": 8.9,
+		"starRating": 4.8,
+		"imageUrl": "https://www.mealime.com/images/kitchen-essentials/Measuring-Cups-300x239.0870656.jpg"
+	},
+	{
+		"productId": 8,
+		"productName": "Mixing Bowls",
+		"productCode": "TBX-0022",
+		"releaseDate": "May 15, 2019",
+		"description": "This 9-piece mixing bowl set from Luminarc can be used to do pretty much anything and won’t absorb stains and odours because it’s made of glass.",
+		"price": 41.55,
+		"starRating": 3.7,
+		"imageUrl": "https://www.mealime.com/images/kitchen-essentials/Mixing-Bowls-300x249.0ce9b70.jpg"
+	},
+	{
+		"productId": 10,
+		"productName": "Can Opener",
+		"productCode": "GMG-0042",
+		"releaseDate": "October 15, 2018",
+		"description": "Shis is a 5-in-1 can opener that pulls tabs, crowns caps, unscrews tops, and opens jar lids and cans safely, easily, and cleanly.",
+		"price": 35.95,
+		"starRating": 4.6,
+		"imageUrl": "https://www.mealime.com/images/kitchen-essentials/Can-Opener-300x200.f7a6ac7.jpg"
+	}
+]
